@@ -1,16 +1,14 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+console.log("testing");
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Testing
-          ayee login page 
-          got it working
+          Testing ayee login page got it working
           <code>src/App.tsx</code>.
         </p>
         <a
